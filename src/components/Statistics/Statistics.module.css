@@ -1,0 +1,24 @@
+.data {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.total {
+    width:100px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    color: red;
+    background-color: beige;
+    box-shadow: 0px 8px 26px rgba(63, 14, 14, 0.2);
+}
+.persentage {
+    width: 250px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    color: red;
+    background-color: beige;
+    box-shadow: 0px 8px 26px rgba(63, 14, 14, 0.3);
+}
